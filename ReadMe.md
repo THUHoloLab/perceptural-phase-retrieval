@@ -117,4 +117,19 @@ The FD-PR can achieve twin-image free inline holography by using different denoi
 <img src = "https://github.com/THUHoloLab/feature-domain-phase-retrieval/blob/main/Demo/resource/Hologram.gif" width = "700" alt="" align = center />
 </div><br>
 
+## License and Citation
 
+This framework is licensed under the MIT License. Please see `LICENSE` for details.
+
+If you use it in your research, we would appreciate a citation via
+```bibtex
+@article{zhang2025high,
+  author = {Zhang, S. and Pan, A. and Sun, H. and Tan, Y. and Cao, L.},
+  title = {High-Fidelity Computational Microscopy via Feature-Domain Phase Retrieval},
+  journal = {Advanced Science},
+  year = {2025},
+  volume = {12},
+  pages = {2413975},
+  doi = {10.1002/advs.202413975},
+  url = {https://doi.org/10.1002/advs.202413975}
+}
